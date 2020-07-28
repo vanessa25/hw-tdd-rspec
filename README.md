@@ -36,6 +36,9 @@ Introduction and Setup
 
 ## Travis CI: continuous integration and test coverage
 
+[![Build Status](https://travis-ci.com/vanessa25/hw-tdd-rspec.svg?branch=master)](https://travis-ci.com/vanessa25/hw-tdd-rspec)
+
+
 In this assignment you'll use [Travis](http://travis-ci.org) to
 continuously monitor if your tests are passing and what your C0 test coverage is.  If you don't already
 have a free Travis account, create one; then add your fork of this
